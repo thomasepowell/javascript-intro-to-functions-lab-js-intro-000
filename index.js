@@ -21,5 +21,5 @@ var mystring = string
 if mystring.toLowerCase() === string {
   return "I can\'t hear you!"
 }
-  
+
 }
